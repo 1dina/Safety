@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Safety App</string>
+    <string name="base_api_url">https://www.googleapis.com/androidcheck/v1/attestations/</string>
+    <string name="api_key">AIzaSyACnNkimv5cAJROPmur8FByruhAWvWH8C8</string>
+
 </resources>
